@@ -7,3 +7,6 @@
 - [1. Two Sum](1.two_sum.rb)
 - [9. Palindrome Number](9.palindrome_number.rb)
 - [13. Roman to Integer](13.roman_to_integer.rb)
+
+### 中等题
+- [198. House Robber](198.house_robber.rb)
