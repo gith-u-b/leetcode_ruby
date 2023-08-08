@@ -7,6 +7,7 @@
 - [1. Two Sum](1.two_sum.rb)
 - [9. Palindrome Number](9.palindrome_number.rb)
 - [13. Roman to Integer](13.roman_to_integer.rb)
+- [14. Longest Common Prefix](14.longest_common_prefix.rb)
 - [20. Valid Parentheses](20.valid_parentheses.rb)
 
 ### 中等题
