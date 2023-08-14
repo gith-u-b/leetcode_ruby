@@ -9,6 +9,7 @@
 - [13. Roman to Integer](13.roman_to_integer.rb)
 - [14. Longest Common Prefix](14.longest_common_prefix.rb)
 - [20. Valid Parentheses](20.valid_parentheses.rb)
+- [21. Merge Two Sorted Lists](21.merge_two_sorted_lists.rb)
 
 ### 中等题
 - [198. House Robber](198.house_robber.rb)
